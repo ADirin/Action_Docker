@@ -34,6 +34,7 @@ public class Calculator {
         System.out.println("Sub me "+c.sub(a,b) );
         System.out.println("mul me "+c.mul(a,b));
         System.out.println("div me "+c.div(a,b));
+        System.out.println("mod me "+c.mod(a,b));
 
     }
 }
